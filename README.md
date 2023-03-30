@@ -5,9 +5,9 @@
 - Файл Presentation – реализация интерфейса работы с БД
    
 База данных представляет собой модель базы данных больницы с докторами, их специальнастями и сертификатами. 
- ## Архитекура Базы Данных 
- ![Image alt](https://github.com/{Ivan-SGN}/{repository}/raw/{branch}/{path}/image.png)
-Папка Custering отвечает за вычисления, папка Lab_4.1 отвечает за графический интерфейс WinForms.
+ ## Архитекура Базы Данных: 
+ ![Image alt](https://github.com/Ivan-SGN/VS_WinForms_Database_EF/raw/main/images/DB_ER_diagram.png)
+
   # В процессе разработки проекта были изучены следующие навыки:
  - Code First подход к созданию базы данных
  - Работа с PostgreSQL
